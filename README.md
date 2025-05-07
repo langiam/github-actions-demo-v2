@@ -22,6 +22,7 @@ Now that we have some code locally, let's create the workflow that will contain 
 
 The folder structure should look something like this:
 
+    
 ```md
 .github
 └── workflows
