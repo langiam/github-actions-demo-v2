@@ -5,10 +5,10 @@ name: Lint workflow
 on:
   pull_request:
     branches:
-      - staging
       - develop
+      - staging
 
-# Jobs to carry out
+# Jobs to carry out testing please work
 jobs:
   test:
     # Operating system to run job on
